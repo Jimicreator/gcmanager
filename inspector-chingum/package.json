@@ -1,0 +1,9 @@
+{
+  "name": "inspector-chingum",
+  "version": "2.0.0",
+  "description": "The Ultimate Desi Group Bot",
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "welcome_messages": [
+    "🚨 **ALERT: Naya Kabootar Aaya Hai!** 🚨\nSwagat nahi karoge **@User** ka?\n*Tip: Inspector se bachke rehna, mood kharab hai.*",
+    "Sawdhaan! Ek aur berozgaar group mein aagaya hai: **@User**.",
+    "Aao **@User**, tumhara hi intezaar tha (jhoot).",
+    "Kundi mat khadkao raja, seedha andar aao **@User**.",
+    "Entry achi hai **@User**, lekin yahan 'Systumm' humara chalta hai.",
+    "**@User** ne entry maari hai... background music bajao! (Moye Moye 🎶)",
+    "Namaste **@User**, kripya group mein gandagi na failayein. Swachh Bharat Abhiyaan chal raha hai."
+  ],
+  "afk_returns": [
+    "🎺 **ATTENTION!** 🎺\nKumbhakaran ne neend tyag di hai.\nWelcome back **@User**.",
+    "Arey **@User** zinda ho? Humne toh shradhanjali de di thi.",
+    "Good Morning **@User**. Duniya badal gayi jab tum so rahe the.",
+    "Dekho wo aa gaya... Group ka sabse 'Busy' insaan.",
+    "Swagat hai **@User** Sahab. Kahiye, aaj kiska time waste karenge?",
+    "Finally! **@User** is back. Ab group ka IQ level wapas gir jayega."
+  ],
+  "challan": {
+    "intro": "🚨 **RUKO JARA! SABAR KARO!** 🚨\nInspector Chingum on duty!\n\n👮‍♂️ **Mujrim:** @User",
+    "offense": "Being Cringe / Overacting / Fail jokes maarna",
+    "paid": "🤫 **CHALLAN PAID.**\nTumhara muh band kar diya gaya hai (Muted 10m).",
+    "banned": "🔨 **FAISLA ON THE SPOT!**\nTumhe Kala Paani ki saza di jaati hai. (BANNED)",
+    "forgive": "✅ **JA SIMRAN JEE LE APNI ZINDAGI.**\nAgli baar dikhe toh seedha encounter hoga."
+  },
+  "section_144": "🛑 **SECTION 144 LAAGU** 🛑\n*“Chup! Bilkul Chup!”*\nTumhara bolna, naachna, aur media bhejna mana hai.\n(Riot Control Mode Active).",
+  "jhatka_msg": "🚫 **USER REMOVED FROM GROUP.**",
+  "jhatka_edit": "😂 **Mazak tha bhai!**\nSirf jhatka laga na? Inspector se masti nahi.",
+  "kismat": {
+    "bad": [
+      "Tumhara time kharab nahi, tumhara software hi corrupted hai.",
+      "Aaj ghar se mat nikalna, kutta bhi kaat sakta hai.",
+      "Sitaare bol rahe hain ki tumhara kattne wala hai. Sambhal ke.",
+      "Shani dev aaj tumhare sar pe Tandav kar rahe hain.",
+      "Tumhari kismat 'Chin Tapak Dam Dam' ho gayi hai."
+    ],
+    "avg": [
+      "Din thik hai, bas kisi se udhaar mat mangna, pit jaoge.",
+      "Kaam chalau kismat hai aaj. Zinda rahoge, shayad.",
+      "Aayein? Kismat samajh nahi aa rahi. Normal hi raho.",
+      "Tumhara din 'Baigan' jaisa hai. Na acha, na bura."
+    ],
+    "good": [
+      "Aaj toh tum Raja ho! Lottery khareed lo.",
+      "Tumhara Crush aaj reply karega. Pakka.",
+      "Mummy aaj khush hain, jo mangna hai mang lo.",
+      "Aaj tumhara 'Jalwa' hai group mein."
+    ]
+  },
+  "totka": [
+    "Fata hua mozaa (Torn Sock)",
+    "Expired Maggi Masala",
+    "Empty Wallet",
+    "Kisi aur ka Netflix Password",
+    "Udhaar ka phone",
+    "Ek chammach Chyawanprash",
+    "Kala Dhaaga"
+  ],
+  "aukaat_val": [
+    "2 Plate Momos (wo bhi bina chutney ke)",
+    "iPhone 15 Pro Max (Sapne mein)",
+    "Dhania (Free)",
+    "Chai ki patti (Used)",
+    "Ambani ka driver",
+    "Gareebo ka Superman",
+    "Dedh sau rupiya (₹150)",
+    "Kachra Seth"
+  ],
+  "shout_intros": [
+    "📢 **GUJJU BHAI NE BATAYA HAI:**",
+    "🕵️ **KHUFIYA SUTRO SE KHABAR:**",
+    "🎭 **ANONYMOUS KABOOTAR:**",
+    "🎤 **MIC DROP MOMENT:**"
+  ],
+  "chhapri_words": [
+    "Awsm", "Lyf", "K3wl", "Mah", "Princ3ss", "RoXX", "Hw r U?", "D3ar"
+  ]
+}
